@@ -8,6 +8,13 @@
             var sta = 2;
             return "STTS";
         }
+       
         
+        public int nSTAT22()
+        {
+            var sta = 2;
+            return "STTS";
+        }
+
     }
 }
