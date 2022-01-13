@@ -6,7 +6,7 @@
         public int nSTAT()
         {
             var sta = 2;
-            return "STTS";
+            return "STTStatata";
         }
         
     }
